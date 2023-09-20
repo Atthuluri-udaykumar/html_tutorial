@@ -1,0 +1,24 @@
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+p {
+    color: pink;
+}
+
+
+#blabla,
+.heading,
+.dummy {
+    color: red;
+    font-weight: bold;
+}
