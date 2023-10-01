@@ -1,8 +1,20 @@
 .a_btn {
     background-color: red;
     color: #ECEFF1;
-    padding: 10px;
+    /* padding: 10px; */
     text-decoration: none;
-    margin: 16px;
+    /* margin: 16px; */
     border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    text-align: center;
+    border: 1px solid red;
+    padding: 10px;
 }
